@@ -1,0 +1,21 @@
+body{
+    background-color: #EEEEEE;
+}
+.tableheading{
+   background-color: #FFFFFF;
+   margin-bottom: 10px;
+   padding-top:10px;
+   color:white;
+}
+#search{
+    text-align: center;
+    letter-spacing: 3px;
+    text-transform: capitalize;
+}
+#btn_Add > a {
+    color: #FFF !important;
+    text-decoration: none;
+}
+h3{
+    text-align: center;
+}
